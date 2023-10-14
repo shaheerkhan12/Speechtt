@@ -1,4 +1,5 @@
 # Speechtt
+Its a small demo for speech to text with web speech Api. Here we are using webkitSpeechRecognition (Only supports in Chrome ) which is api with prefix wbkit.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
